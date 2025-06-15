@@ -1,5 +1,33 @@
-# canistergeek_ic_rust
+https://branch.wallet.bitcoin.com/invite?code=5AOU5q6X
+¿Quieres que te guíe paso a paso para probar la interfaz de usuario de trading en la app de Bitcoin.com Wallet usando tu enlace de invitación? Si es así, estos serían los pasos recomendados:
 
+1. **Acceder al enlace de invitación**  
+   Abre [este enlace de invitación](https://branch.wallet.bitcoin.com/invite?code=5AOU5q6X) desde un dispositivo móvil o navegador.
+
+2. **Instalación y registro**  
+   - Si no tienes la app, te pedirá instalar Bitcoin.com Wallet.
+   - Abre la app y sigue el proceso de registro. Ingresa el código de invitación si es solicitado.
+
+3. **Acceso a la interfaz de trading**  
+   - Una vez dentro, busca la sección de “Trading”, “Comprar/Vender” o “Swap”.
+   - Explora las opciones para comprar, vender o intercambiar criptomonedas.
+
+4. **Prueba de funcionalidades clave**  
+   - Simula una compra/venta (no es necesario completar la transacción).
+   - Observa la usabilidad, claridad de botones y menús, información de precios, comisiones, tiempos de confirmación, etc.
+   - Si tienes tokens CGT asignados, verifica si puedes usarlos en alguna operación o sección.
+
+5. **Toma nota de cualquier error, lentitud o aspecto confuso en la interfaz.**
+
+¿Te gustaría una lista de comprobación de pruebas (“checklist”) para la interfaz de trading? ¿O prefieres que te ayude a documentar tus hallazgos después de probar? Indícame cómo deseas continuar.# canistergeek_ic_rust
+🚀Sé uno de los primeros en explorar Bitcoin. ¡om Wallet!
+Regístrate con mi código:
+5AOU5q6X
+y empieza a construir tu red invitando a tus amigos pronto!
+
+🔗 https://wallet. itcoin.com/
+
+🔗 https://branch.wallet.bitcoin.com/invite?code=5AOU5q6X
 `canistergeek_ic_rust` is the open-source tool for Internet Computer to track your project canisters cycles and memory status and collect log messages.
 
 `canistergeek_ic_rust` can be integrated into your canisters as rust library which exposes following modules:
